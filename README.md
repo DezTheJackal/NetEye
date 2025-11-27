@@ -5,7 +5,7 @@ Dev: DezTheJackal
 _____________________________
 # NetEye.py 
 
-A **super simple port scanner** written in **pure Python 3**.  
+A **super simple port scanner and network scanner** written in **pure Python 3**.  
 No dependencies, no setup headaches. Just clone and run.
 
 # NetEye 👁️
